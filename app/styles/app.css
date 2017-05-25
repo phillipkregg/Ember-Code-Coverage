@@ -1,0 +1,10 @@
+html, body {
+    font-family: sans-serif;
+}
+
+.str-ribbon-container {
+    height: 100px;
+    padding: 20px;
+    background: teal;
+    color: white;
+}
